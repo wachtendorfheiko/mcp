@@ -1,0 +1,7 @@
+# Charizard Description
+Charizard is a powerful Fire/Flying-type Pokémon known for its majestic appearance and incredible strength. It is a legendary creature that evolves from Charmander and is celebrated for its speed and fiery powers. Key traits:
+- **Type**: Fire/Flying
+- **Abilities**: Fire Fang, Aero, and Flare Boost
+- **Strengths**: Excels in battles with its high Speed and special attack stats.
+- **Weaknesses**: Vulnerable to Water, Rock, and Ice-type moves.
+- **Notable**: A symbol of power and freedom, often featured in Pokémon lore.

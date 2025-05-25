@@ -1,0 +1,14 @@
+Zephyria - Flying/Ghost Type
+
+A spectral pokemon that appears in stormy weather, Zephyria is a guardian of winds and whispers. Its translucent body glows faintly in the dark, and it leaves trails of mist in its wake. When threatened, it emits a haunting melody that drives enemies mad.
+
+Abilities:
+- Whispering Winds: Boosts speed when it's the first to act in a battle.
+- Echoing Shadow: Doubles the damage of psychic moves.
+
+Moves:
+- Psychic Surge: High-powered psychic attack that deals damage based on the opponent's stats.
+- Storm Whisper: Deals damage equal to the opponent's current HP, but may cause them to faint.
+- Phantom Wing: A ghostly attack that deals damage based on the user's speed.
+
+Lore: Zephyria is said to be a guardian of storms, protecting the skies from dark forces. It is believed that if a Zephyria is seen, it is a sign of impending change. However, its appearance is often a warning of a storm about to hit.
